@@ -1,0 +1,19 @@
+h1{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+
+  font-style: normal;
+  
+}
+
+
+
+
+
+p {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
